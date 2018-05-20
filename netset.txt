@@ -1,0 +1,2 @@
+networksetup -setdnsservers Wi-Fi 10.2.3.3,10.2.3.8
+networksetup -setdnsservers Wi-Fi 10.2.3.3
